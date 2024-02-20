@@ -1,5 +1,6 @@
 # kritika13.github.io
-My portfolio website using HTML, CSS and javaScript
+My design portfolio website using HTML, CSS and javaScript
+During Master of Science Coursework - (Universiy of Limerick 2022-2023)
 
 References:
 
